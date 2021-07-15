@@ -1,5 +1,5 @@
 # Food-Classification-lesson-practice-
-This is a lesson practic　from Course of <a href="https://speech.ee.ntu.edu.tw/~tlkagk/courses.html">Professor Haungyi Lee in NTU</a>.
+This is a lesson practice and the sample code is　from Course of <a href="https://speech.ee.ntu.edu.tw/~tlkagk/courses.html">Professor Haungyi Lee in NTU</a>.
 This work here is a process of understanding DL model structure and Pytorch API through implementation practice.  
 
 
