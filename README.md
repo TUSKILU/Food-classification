@@ -5,9 +5,9 @@ This work here is a process of understanding DL model structure and Pytorch API 
 
 ## Assignment Target - Food classification based on Food-11 data set  
 **The 11 Category contains:**  
-Bread Dairy product  
-Dessert Egg Fried_food  
-Meat Noodles/Pasta Rice Seafood  
+Bread Dairy_product Dessert  
+Egg Fried_food Meat  
+Noodles/Pasta Rice Seafood    
 Soup
 
 Vegetable-Fruit
@@ -17,7 +17,8 @@ Vegetable-Fruit
 <img src="https://user-images.githubusercontent.com/55873158/124389311-18819b00-dd19-11eb-82b4-6a4719fd2b37.jpg" width="150" height="150" >
 <img src="https://user-images.githubusercontent.com/55873158/124389322-21726c80-dd19-11eb-90dc-c4b2a6e40ded.jpg" width="150" height="150" >
 <img src="https://user-images.githubusercontent.com/55873158/124389328-27684d80-dd19-11eb-9f27-f46b628ab89c.jpg" width="150" height="150" >
-<img src="https://user-images.githubusercontent.com/55873158/124389332-2c2d0180-dd19-11eb-8520-068ddc95093f.jpg" width="150" height="150" >
+<img src="https://user-images.githubusercontent.com/55873158/124389332-2c2d0180-dd19-11eb-8520-068ddc95093f.jpg" width="150" height="150" >![0026](https://user-images.githubusercontent.com/55873158/126074223-618d3c0a-c49b-4b13-be16-37315830ea65.jpg)
+
 <img src="https://user-images.githubusercontent.com/55873158/124389338-32bb7900-dd19-11eb-924d-ed660e4ae4d9.jpg" width="150" height="150" >
 <img src="https://user-images.githubusercontent.com/55873158/124389342-35b66980-dd19-11eb-9fae-0fde08816f20.jpg" width="150" height="150" >
 <img src="https://user-images.githubusercontent.com/55873158/124389377-5979af80-dd19-11eb-9d32-99d1b8a84aef.jpg" width="150" height="150" >
@@ -58,5 +59,13 @@ Vegetable-Fruit
     [029/030] 19.55 sec(s) Train Acc: 0.905912 Loss: 0.002124
     [030/030] 19.66 sec(s) Train Acc: 0.919149 Loss: 0.001804
 
+## Testing Result
+
+<img src="https://user-images.githubusercontent.com/55873158/126074016-2e95ad20-adff-4c23-9384-d69081e59915.jpg" width="150" height="150" > -> 2 (Desert)  
+<img src="https://user-images.githubusercontent.com/55873158/126074018-2725e87b-8fb4-419e-92bc-db28ee37a4e8.jpg" width="150" height="150" > -> 10 (Soup)  
+<img src="https://user-images.githubusercontent.com/55873158/126074020-058b0d2f-4c36-472c-9f90-f7a3bac22ca7" width="150" height="150" > -> 3 (Egg)  
+
+<img src="https://user-images.githubusercontent.com/55873158/126074228-b0a13131-d49b-4201-91de-4e9086eceff8.jpg" width="150" height="150" >  -> 2 (Desert)  
+<img src="https://user-images.githubusercontent.com/55873158/126074242-5577e37a-4fd1-441a-9d76-db1319877ae8.jpg" width="150" height="150" >  -> 3 (Egg)  
 
 
