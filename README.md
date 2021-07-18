@@ -24,7 +24,7 @@ This work here is a process of understanding DL model structure and Pytorch API 
 <img src="https://user-images.githubusercontent.com/55873158/124389311-18819b00-dd19-11eb-82b4-6a4719fd2b37.jpg" width="150" height="150" >
 <img src="https://user-images.githubusercontent.com/55873158/124389322-21726c80-dd19-11eb-90dc-c4b2a6e40ded.jpg" width="150" height="150" >
 <img src="https://user-images.githubusercontent.com/55873158/124389328-27684d80-dd19-11eb-9f27-f46b628ab89c.jpg" width="150" height="150" >
-<img src="https://user-images.githubusercontent.com/55873158/124389332-2c2d0180-dd19-11eb-8520-068ddc95093f.jpg" width="150" height="150" >![0026](https://user-images.githubusercontent.com/55873158/126074223-618d3c0a-c49b-4b13-be16-37315830ea65.jpg)
+<img src="https://user-images.githubusercontent.com/55873158/124389332-2c2d0180-dd19-11eb-8520-068ddc95093f.jpg" width="150" height="150" >
 
 <img src="https://user-images.githubusercontent.com/55873158/124389338-32bb7900-dd19-11eb-924d-ed660e4ae4d9.jpg" width="150" height="150" >
 <img src="https://user-images.githubusercontent.com/55873158/124389342-35b66980-dd19-11eb-9fae-0fde08816f20.jpg" width="150" height="150" >
@@ -68,7 +68,7 @@ This work here is a process of understanding DL model structure and Pytorch API 
 
 ## Testing Result
 
-<img src="https://user-images.githubusercontent.com/55873158/126074016-2e95ad20-adff-4c23-9384-d69081e59915.jpg" width="150" height="150" > -> 2 (Desert) 
+<img src="https://user-images.githubusercontent.com/55873158/126074016-2e95ad20-adff-4c23-9384-d69081e59915.jpg" alt="-> 2 (Desert)" width="150" height="150" > -> 2 (Desert) 
 <img src="https://user-images.githubusercontent.com/55873158/126074018-2725e87b-8fb4-419e-92bc-db28ee37a4e8.jpg" width="150" height="150" > -> 10 (Fruit) 
 <img src="https://user-images.githubusercontent.com/55873158/126074390-fba73dd7-ac10-4ab4-88f2-4bc490fd5b0c.jpg" width="150" height="150" > -> 3 (Egg)  
 
