@@ -5,12 +5,19 @@ This work here is a process of understanding DL model structure and Pytorch API 
 
 ## Assignment Target - Food classification based on Food-11 data set  
 **The 11 Category contains:**  
-Bread Dairy_product Dessert  
-Egg Fried_food Meat  
-Noodles/Pasta Rice Seafood    
-Soup
+0 Bread   
+1 Dairy_product   
+2 Dessert      
+3 Egg   
+4 Fried_food    
+5 Meat     
+6 Noodles/Pasta    
+7 Rice   
+8 Seafood      
+9 Soup  
+10 Vegetable/Fruit  
 
-Vegetable-Fruit
+
 <p float="left">
 <img src="https://user-images.githubusercontent.com/55873158/124389273-fe47bd00-dd18-11eb-8824-b798b43cc48c.jpg" width="150" height="150" >
 <img src="https://user-images.githubusercontent.com/55873158/124389304-14557d80-dd19-11eb-904b-7711d6625a82.jpg" width="150" height="150" >
@@ -62,8 +69,8 @@ Vegetable-Fruit
 ## Testing Result
 
 <img src="https://user-images.githubusercontent.com/55873158/126074016-2e95ad20-adff-4c23-9384-d69081e59915.jpg" width="150" height="150" > -> 2 (Desert)  
-<img src="https://user-images.githubusercontent.com/55873158/126074018-2725e87b-8fb4-419e-92bc-db28ee37a4e8.jpg" width="150" height="150" > -> 10 (Soup)  
-<img src="https://user-images.githubusercontent.com/55873158/126074020-058b0d2f-4c36-472c-9f90-f7a3bac22ca7" width="150" height="150" > -> 3 (Egg)  
+<img src="https://user-images.githubusercontent.com/55873158/126074018-2725e87b-8fb4-419e-92bc-db28ee37a4e8.jpg" width="150" height="150" > -> 10 (Fruit)
+<img src="https://user-images.githubusercontent.com/55873158/126074390-fba73dd7-ac10-4ab4-88f2-4bc490fd5b0c.jpg" width="150" height="150" > -> 3 (Egg)  
 
 <img src="https://user-images.githubusercontent.com/55873158/126074228-b0a13131-d49b-4201-91de-4e9086eceff8.jpg" width="150" height="150" >  -> 2 (Desert)  
 <img src="https://user-images.githubusercontent.com/55873158/126074242-5577e37a-4fd1-441a-9d76-db1319877ae8.jpg" width="150" height="150" >  -> 3 (Egg)  
