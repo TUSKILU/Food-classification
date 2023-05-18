@@ -1,4 +1,4 @@
-# Food-Classification-lesson-practice-
+# Food-Classification
 
 ## Assignment Target - Food classification based on Food-11 data set  
 **The 11 Category contains:**  
